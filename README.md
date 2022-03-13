@@ -9,3 +9,4 @@
 - 🌱 I’m currently learning Python
 - 💬 Ask me about games, I love it!
 - 📫 How to reach me: https://www.linkedin.com/in/isaacmagno/
+<a href="https://github.com/IsaacMagno">
