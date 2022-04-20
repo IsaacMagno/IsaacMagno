@@ -7,6 +7,6 @@
 </div>
   
 - 🔭 Estou atualmente desenvolvendo um projeto pessoal, chamado <a href="https://github.com/IsaacMagno/TobiasProject">Tobias Project</a>
-- 🪰 Ando me aventurando na criação de I.A e jogos atualmente, <a>aqui</a> dei meus primeiros passos
+- 🪰 Ando me aventurando na criação de I.A e jogos atualmente, <a href="https://github.com/IsaacMagno/flappybird_ia">aqui</a> dei meus primeiros passos
 - 👨‍💻 Sou autodidata, sempre estou em busca de saber e aprender um pouco mais sobre tudo!
 - 📫 Você pode falar comigo pelo <a href="https://www.linkedin.com/in/isaacmagno/">LinkedIn</a>
