@@ -1,4 +1,4 @@
-### Salve Salve Recruiter,
+## Salve Salve Recruiter,
 
 <div>
   <a href="https://github.com/IsaacMagno"></a>
@@ -6,4 +6,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacMagno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </div>
   
-- 📫 Você pode falar comigo pelo <a href="https://www.linkedin.com/in/isaacmagno/">LinkedIn</a>
+### Estou em busca do meu primeiro emprego como Programador :exploding_head: 
+- Principais Tecnologias:
+    - [x] JavaScript
+    - [x] React
+    - [x] NodeJs
+    - [x] MySQL
+    - [x] MongoDB
+    - [x] Python
+    
+*Deixei alguns repositorios ali embaixo, da uma olhadinha, tem um pouco do que ando fazendo :monocle_face:*
+
+#### 📫 Você pode falar comigo pelo <a href="https://www.linkedin.com/in/isaacmagno/">LinkedIn</a>
