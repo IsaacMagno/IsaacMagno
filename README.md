@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacMagno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </div>
   
-### Estou em busca do meu primeiro trabalho como Programador :exploding_head: 
+### Estou em busca do meu primeiro trabalho como Programador :floppy_disk:
 - Principais Tecnologias:
     - [x] JavaScript
     - [x] React
