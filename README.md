@@ -14,6 +14,11 @@
     - [x] MySQL
     - [x] MongoDB
     - [x] Python
+    - [x] Java
+    - [x] Quarkus
+    - [x] Tailwind CSS
+    - [x] Bootstrap
+    - [x] CSS  
     
 *Deixei alguns repositorios ali embaixo, da uma olhadinha, tem um pouco do que ando fazendo :monocle_face:*
 
