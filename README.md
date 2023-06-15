@@ -1,5 +1,3 @@
-## Salve Salve Recruiter,
-
 <div>
   <a href="https://github.com/IsaacMagno"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMagno&layout=compact&langs_count=10&theme=github_dark"/>
