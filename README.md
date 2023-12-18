@@ -4,6 +4,7 @@
     - [x] Python
     - [x] NodeJs
     - [x] React
+    - [x] React Native
     - [x] NextJS
     - [x] MySQL
     - [x] CSS
