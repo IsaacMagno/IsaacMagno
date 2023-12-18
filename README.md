@@ -1,4 +1,4 @@
-### Desenvolvedor Full-Stack :floppy_disk:
+### :balloon: Desenvolvedor Full-Stack
 - Principais Tecnologias:
     - [x] JavaScript
     - [x] Python
