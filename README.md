@@ -2,7 +2,7 @@
 - Principais Tecnologias:
     - [x] JavaScript
     - [x] Python
-    - [x] NodeJs
+    - [x] NodeJS
     - [x] React
     - [x] React Native
     - [x] NextJS
