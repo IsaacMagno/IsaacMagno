@@ -1,4 +1,7 @@
 ### :balloon: Desenvolvedor Full-Stack
+#### :floppy_disk: Meu <a href="https://isaacmagno.github.io/myPort/">Portfólio</a>
+#### 📫 Você pode falar comigo pelo <a href="https://www.linkedin.com/in/isaacmagno/">LinkedIn</a>
+
 - Principais Tecnologias:
     - [x] JavaScript
     - [x] Python
@@ -10,5 +13,3 @@
     - [x] CSS
     - [x] Tailwind CSS
     
-#### :floppy_disk: Meu <a href="https://isaacmagno.github.io/myPort/">Portfólio</a>
-#### 📫 Você pode falar comigo pelo <a href="https://www.linkedin.com/in/isaacmagno/">LinkedIn</a>
