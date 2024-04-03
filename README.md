@@ -1,4 +1,4 @@
-### :balloon: Desenvolvedor Full-Stack
+### Desenvolvedor
 - Principais Tecnologias:
     - [x] JavaScript
     - [x] Python
